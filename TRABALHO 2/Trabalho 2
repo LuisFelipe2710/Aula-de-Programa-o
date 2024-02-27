@@ -3,3 +3,62 @@ a. Tente fazer um código mínimo em cada uma delas;
 b. Tente executar o seu código 
 
 Resposta:
+
+
+C# é uma linguagem de programação, multiparadigma, de tipagem forte, desenvolvida pela Microsoft como parte da plataforma.Já o C é uma das linguagens de programação mais populares e existem poucas arquiteturas para as quais não existem compiladores para C. C tem influenciado muitas outras linguagens de programação (por exemplo, a linguagem Java), mais notavelmente C++, que originalmente começou como uma extensão para C.
+O Python é uma linguagem de programação amplamente usada em aplicações da Web, desenvolvimento de software, ciência de dados e machine learning (ML). Os desenvolvedores usam o Python porque é eficiente e fácil de aprender e pode ser executada em muitas plataformas diferentes. 
+
+
+
+
+
+
+
+
+#EXEMPLO EM PYTHON
+
+variavel1 = 5
+variavel2 = 10
+resultado = variavel1 + variavel2
+print(resultado)  
+
+
+file:///C:/Users/lfeli/Downloads/phyton.jpeg
+
+---------------------------------------------------------------
+
+//EXEMPLO EM C
+
+#include <stdio.h>
+
+int main() {
+
+    int variavel1 = 5;
+    int variavel2 = 10;
+    int resultado = variavel1 + variavel2;
+
+    printf(resultado);
+
+    return 0;
+}
+
+----------------------------------------------------------------------
+
+EXEMPLO EM C#
+
+using System; 
+
+namespace HelloWorld 
+{ 
+  class helloWorld 
+  { 
+    static void Main(string[] args) 
+    { 
+      Console.WriteLine("Meu nome é Luis Felipe, e eu quero um 10"); 
+      Console.ReadKey(); 
+    }
+   } 
+} (editado)
+
+
+file:///C:/Users/lfeli/Downloads/print%20c%23.jpeg
