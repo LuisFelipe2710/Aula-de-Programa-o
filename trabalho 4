@@ -1,0 +1,17 @@
+1 - Utilizando a linguagem de programação Python, implemente um ou mais códigos de exemplo dos seguintes elementos: uma estrutura de repetição; uma estrutura de tomada de decisão. 2 - Envie seu código e o comprovante de execução para seu repositório no github. 3 - Envie o link do seu repositório 
+
+# Estrutura de repetição (loop for)
+print("Exemplo de loop for:")
+for i in range(5):  # Loop de 0 a 4
+    print("Iteração", i)
+
+# Estrutura de tomada de decisão (if-else)
+print("\nExemplo de estrutura de decisão:")
+numero = int(input("Digite um número inteiro: "))
+
+if numero % 2 == 0:
+    print(numero, "é um número par.")
+else:
+    print(numero, "é um número ímpar.") 
+
+Para executar este código, você pode salvá-lo em um arquivo com a extensão ".py" (por exemplo, exemplo.py) e depois executá-lo em um ambiente Python.
