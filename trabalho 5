@@ -1,0 +1,39 @@
+1- Faça o exercício do slide 24 da apresentação da semana 05. Envie seus códigos para o github. Envie o link do seu repositório para o SAVA 
+def bubble_sort(lista):
+    n = len(lista)
+    # Percorre todos os elementos da lista
+    for i in range(n):
+        # Últimos i elementos já estão ordenados, então podemos ignorá-los
+        for j in range(0, n-i-1):
+            # Percorre a lista da esquerda para a direita
+            # Troca os elementos se estiverem na ordem errada
+            if lista[j] > lista[j+1]:
+                lista[j], lista[j+1] = lista[j+1], lista[j]
+
+# Exemplo de uso
+lista = [64, 34, 25, 12, 22, 11, 90]
+print("Lista original:", lista)
+bubble_sort(lista)
+print("Lista ordenada:", lista) 
+
+2- implemente o algoritmo de ordenação Bubble Sort usando python 
+
+def bubble_sort(lista):
+    n = len(lista)
+    # Percorre todos os elementos da lista
+    for i in range(n):
+        # Últimos i elementos já estão ordenados, então podemos ignorá-los
+        for j in range(0, n-i-1):
+            # Percorre a lista da esquerda para a direita
+            # Troca os elementos se estiverem na ordem errada
+            if lista[j] > lista[j+1]:
+                lista[j], lista[j+1] = lista[j+1], lista[j]
+
+# Exemplo de uso
+lista = [64, 34, 25, 12, 22, 11, 90]
+print("Lista original:", lista)
+bubble_sort(lista)
+print("Lista ordenada:", lista) 
+
+
+Este código define uma função bubble_sort que aceita uma lista como entrada e a ordena usando o algoritmo Bubble Sort. 
