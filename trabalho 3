@@ -1,0 +1,39 @@
+1 - Forneça a definição da termo ARQUIVO, no contexto da computação 
+R: No contexto da computação, um arquivo é uma coleção de dados armazenados em um sistema de armazenamento, como um disco rígido, unidade de estado sólido ou outro meio de armazenamento digital.
+Os arquivos são utilizados para organizar e manter informações de forma estruturada e acessível. 
+Cada arquivo possui um nome que o identifica e, geralmente, uma extensão que indica o tipo de dados que ele contém (por exemplo, .txt para arquivos de texto, .jpg para imagens, .exe para executáveis).
+Os arquivos podem conter diversos tipos de dados, incluindo texto, imagens, áudio, vídeo, programas de software, e mais. Eles são essenciais para o funcionamento de sistemas operacionais e aplicativos, permitindo que as informações sejam salvas, recuperadas, manipuladas e transmitidas entre diferentes sistemas e dispositivos.
+Além disso, os arquivos podem ter atributos adicionais, como permissões de acesso, data de criação e modificação, tamanho, e outras propriedades que ajudam na sua gestão e segurança dentro de um sistema computacional.
+
+1.1 - O que é um ARQUIVO DE TEXTO? 
+R: Um arquivo de texto é um tipo de arquivo digital que contém apenas texto simples, sem qualquer formatação especial além dos caracteres alfanuméricos e símbolos que compõem o conteúdo. Estes arquivos são geralmente armazenados com uma extensão como .txt, mas também podem ter outras extensões dependendo do uso específico ou do software associado (por exemplo, .log, .csv para arquivos de valores separados por vírgula).
+
+Os arquivos de texto são amplamente utilizados devido à sua simplicidade e compatibilidade com a maioria dos sistemas operacionais e programas de software. Eles podem ser abertos e editados com uma variedade de editores de texto, desde os mais simples, como o Bloco de Notas no Windows ou o TextEdit no macOS, até editores mais avançados, como o Notepad++ ou o Visual Studio Code.
+
+Principais características dos arquivos de texto:
+- Formato simples: Contém apenas texto, sem formatação complexa.
+- Compatibilidade: Podem ser abertos e editados em praticamente qualquer sistema operacional.
+- Tamanho reduzido: Geralmente têm tamanho pequeno, pois não incluem dados adicionais de formatação.
+- Fácil de manipular: Podem ser facilmente criados, lidos, e modificados por scripts e programas.
+
+
+2 - Explique o que é uma VARIÁVEL, no contexto da programação de computadores 
+R:No contexto da programação de computadores, uma variável é um elemento que armazena dados ou informações que podem ser usados e manipulados durante a execução de um programa. As variáveis são fundamentais na programação porque permitem que os programas realizem cálculos, tomem decisões e armazenem resultados intermediários de forma dinâmica.
+
+Aqui estão algumas características e aspectos importantes sobre variáveis:
+
+1. Identificador: Cada variável possui um nome único, chamado de identificador, que é utilizado para referenciá-la no código. O nome deve seguir as regras de nomenclatura da linguagem de programação utilizada.
+
+2. Tipo de Dados: Uma variável tem um tipo de dados associado que determina o tipo de valor que ela pode armazenar. Os tipos de dados comuns incluem inteiros, pontos flutuantes, caracteres, strings, booleanos, e tipos mais complexos como arrays e objetos, dependendo da linguagem de programação.
+
+3. Atribuição de Valor: Uma variável pode ser atribuída a um valor usando um operador de atribuição (geralmente o símbolo =). Por exemplo, em muitas linguagens de programação, você pode escrever x = 5 para atribuir o valor 5 à variável x.
+
+4. Alcance (Scope): O escopo de uma variável define onde ela pode ser acessada no código. Variáveis podem ter escopos locais (dentro de uma função ou bloco de código) ou globais (acessíveis em todo o programa).
+
+5. Mutabilidade: Em muitas linguagens, os valores armazenados em variáveis podem ser alterados durante a execução do programa. No entanto, algumas linguagens também suportam variáveis imutáveis, cujo valor não pode ser alterado uma vez atribuído.
+
+
+
+3 - Explique o que seria um SERVIDOR, no contexto da computação 
+
+R: No contexto da computação, um servidor é um sistema de hardware ou software que fornece serviços, recursos, ou dados para outros computadores, conhecidos como clientes, através de uma rede. Os servidores desempenham um papel crucial na arquitetura de redes e na operação de serviços online e corporativos.
